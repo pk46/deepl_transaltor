@@ -1,0 +1,2 @@
+zde má být api klíč - záměrně zde není, takže program nebude fungovat
+DE
