@@ -9,7 +9,7 @@ class Translator:
 						'NL', 'PL', 'PT', 'RO', 'RU', 'SK', 'SL', 'SV', 'ZH']
 	TARGET_LANG_LIST = ['BG', 'CS', 'DA', 'DE', 'EL', 'EN-GB', 'EN-US', 'ES', 'ET', 'FI', 'FR', 'HU', 'IT', 'JA',
 						'LT', 'LV', 'NL', 'PL', 'PT-PT', 'PT-BR', 'RO', 'RU']
-	AUTHENTICATION_KEY = 'cec8d0a5-b727-1e69-b965-eeab200732f5'
+	AUTHENTICATION_KEY = ''
 
 	def __init__(self):
 		self._window = Tk()
